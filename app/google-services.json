@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184868314048",
+    "firebase_url": "https://notification-with-fcm-bfdb3-default-rtdb.firebaseio.com",
+    "project_id": "notification-with-fcm-bfdb3",
+    "storage_bucket": "notification-with-fcm-bfdb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184868314048:android:185aacc02f3d9055840625",
+        "android_client_info": {
+          "package_name": "com.sudipcseseu.notificationwithfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184868314048-i532fjvkcnrojtgbg5o0r84hnbnco35e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHHSRhMMR7KD9gKxMwhjyEOZS_9fYijEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184868314048-i532fjvkcnrojtgbg5o0r84hnbnco35e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
